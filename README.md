@@ -1,6 +1,6 @@
 # eleventy-base-blog v8
 
-# This is my new version.
+# This is now the new eleventy base blog repo.
 
 A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
 
